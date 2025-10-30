@@ -1,5 +1,5 @@
 # Bank-Loan-Analysis
-This repository contains a data analysis project that utilizes SQL for data extraction, transformation, and cleaning, and Tableau for interactive data visualization and dashboard creation.
+This repository contains a data analysis project that utilizes SQL for data extraction, transformation, data cleaning, and Tableau for interactive data visualization and dashboard creation.
 **Project Highlights:**
 Data Cleaning & Preparation using SQL (joins, aggregations, CTEs, etc.)
 

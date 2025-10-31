@@ -11,7 +11,7 @@ End-to-End Analysis Workflow — from raw data to business insights
 
 **Tools Used:**
 
-SQL (e.g., MySQL, PostgreSQL, or MS SQL Server)
+SQL (e.g., MySQL), Tableau, KPI Dashboard, Finance Data analysis
 
 Tableau Public
 
